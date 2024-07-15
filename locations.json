@@ -1,0 +1,10 @@
+
+
+[
+    { "lat": -3.977967, "lng": 122.515070, "name": "Pantai Nambo", "imageUrl":"lokasi.jpg" },
+    { "lat": -4.004914, "lng": 122.511529, "name": "Pantai Toronipa", "imageUrl":"lokasi.jpg" },
+    { "lat": -3.982717, "lng": 122.490441, "name": "Pulau Bokori", "imageUrl":"lokasi.jpg" },
+    { "lat": -4.008541, "lng": 122.588945, "name": "Air Terjun Moramo", "imageUrl":"lokasi.jpg"},
+    { "lat": -3.9786194144437212, "lng": 122.54444214987733, "name": "Masjid Al-Alam"},
+    { "lat": -4.04512596009356, "lng": 122.57677315545465, "name": "Kebun Raya Kendari","imageUrl":"lokasi.jpg" }
+]
